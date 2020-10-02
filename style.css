@@ -1,0 +1,16 @@
+h1
+{
+    text-align: center;
+}
+
+#mapid{
+    width:650px;
+    height:650px;
+    margin:0 auto;
+}
+
+body{
+    margin:0 auto;
+    background-image:url( 'photo_387.jpg' );
+    background-repeat:repeat;
+}
